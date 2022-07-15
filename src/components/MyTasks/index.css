@@ -1,0 +1,128 @@
+.select-box {
+  color: #131213;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+  padding: 12px;
+  outline: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.select-option {
+  color: #131213;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.text-box {
+  background-color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  height: 43px;
+  width: 100%;
+}
+
+.tag {
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+
+.form-container {
+  background-color: #131213;
+  height: 100vh;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 20px;
+}
+
+.heading {
+  font-size: 26px;
+  font-weight: 700;
+  color: #f3aa4e;
+  font-family: 'Roboto';
+}
+
+.form-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 38px;
+  width: 130px;
+  color: #fff;
+  font-weight: bold;
+  font-family: 'Roboto';
+  background-color: #f3aa4e;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.head {
+  font-size: 28px;
+  font-weight: 600;
+  color: #fff;
+  font-family: 'Roboto';
+}
+
+.tasks-view {
+  background-color: #000;
+  height: 100vh;
+  padding-left: 30px;
+  width: 70%;
+}
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.task-item {
+  background-color: #131213;
+  border-radius: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+  color: #f8f8f8;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-family: 'Roboto';
+}
+.order-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 38px;
+  width: 130px;
+  color: #323f4b;
+  font-weight: 600;
+  font-family: 'Roboto';
+  background-color: #f3aa4e;
+  font-size: 14px;
+  border-radius: 20px;
+}
+
+.task-list {
+  padding: 0;
+  display:flex;
+  flex-direction: row;
+}

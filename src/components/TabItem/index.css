@@ -1,0 +1,31 @@
+.active-task{
+ border:none;
+  background-color:#f3aa4e;
+  border-radius: 20px;
+  height: 30px;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+
+}
+.item{
+    list-style-type:none;
+    margin-right:20px;
+}
+
+.task-btn {
+  border: 1px solid #f3aa4e;
+  background-color: transparent;
+  border-radius: 20px;
+  height: 30px;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
